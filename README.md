@@ -7,7 +7,7 @@ For more : [Medium Article]()
 
 I used Python to answer these questions :
 
-- [Questions]()
+- [Questions](https://github.com/datawithyounes/airline_python_exploratory_data_analysis/tree/main/questionnaire)
   
 I'm planning to use data visualization libraries to visualize the results I have
 - [Airline Data Visualization ]() </strong>
@@ -15,7 +15,7 @@ I'm planning to use data visualization libraries to visualize the results I have
 
 ## Used Datasets
 
- ### Two key [datasets]() for this case study
+ ### Two key [datasets](https://github.com/datawithyounes/airline_python_exploratory_data_analysis/tree/main/csv) for this case study
 
 - <strong>airline_passenger_satisfaction.csv</strong>: Customer satisfaction scores from 120,000+ airline passengers, including additional information about each passenger, their flight, and type of travel, as well as ther evaluation of different factors like cleanliness, comfort, service, and overall experience.
 

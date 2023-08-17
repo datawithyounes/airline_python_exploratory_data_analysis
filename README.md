@@ -3,7 +3,7 @@
 <strong>For this project, I used a handy tool called the Pandas library in Python. It helped me manage and play around with the passenger satisfaction data. I could easily organize and filter the data to find out interesting stuff, like what made passengers happy or if certain factors influenced their satisfaction. 
 With Pandas, I felt like I had a secret code to understand the data better. It made the whole project a lot simpler and enjoyable!
 
-For more : [Medium Article]()
+For more : [Medium Article](https://datawithyounes.medium.com/passenger-satisfaction-analysis-exploring-airline-travel-experiences-using-python-libraries-115eae77cfb9)
 
 I used Python to answer these questions :
 

@@ -24,5 +24,5 @@ boarding) impact overall satisfaction?
 
 ### If you prefer the PDF, you can access the file using the link below.
 
- [Airline Data Analysis Questions](https://drive.google.com/file/d/1CWosuCuU6kjbA1pvHzhiM2TW4LUVMPRL/view?usp=sharing)
+ [Airline Data Analysis Questions](https://drive.google.com/file/d/1CWosuCuU6kjbA1pvHzhiM2TW4LUVMPRL/view?usp=drive_link)
 

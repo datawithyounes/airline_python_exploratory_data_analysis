@@ -29,7 +29,7 @@ I'm planning to use data visualization libraries to visualize the results I have
   - **Younes AGEGAL**
        ##### Email : contact@datawithyounes.tech
        ##### [LinkedIn](https://www.linkedin.com/in/younesagegal/)
-       ##### [UpWork](https://www.upwork.com/freelancers/younesa11)
+       ##### [UpWork](https://www.upwork.com/workwith/younesa11)
        ##### [Twitter](https://twitter.com/datawithyounes)
        ##### [Portfolio](https://datawithyounes.tech/)
 
